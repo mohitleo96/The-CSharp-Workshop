@@ -1,0 +1,15 @@
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\bin\Debug\net9.0\Exercise1_02.exe
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\bin\Debug\net9.0\Exercise1_02.deps.json
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\bin\Debug\net9.0\Exercise1_02.runtimeconfig.json
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\bin\Debug\net9.0\Exercise1_02.dll
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\bin\Debug\net9.0\Exercise1_02.pdb
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.AssemblyInfoInputs.cache
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.AssemblyInfo.cs
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.csproj.CoreCompileInputs.cache
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.sourcelink.json
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.dll
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\refint\Exercise1_02.dll
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.pdb
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\Exercise1_02.genruntimeconfig.cache
+C:\Users\tmorao\Desktop\C-Sharp-Workshop\Chapter_01\Exercise1_02\obj\Debug\net9.0\ref\Exercise1_02.dll
