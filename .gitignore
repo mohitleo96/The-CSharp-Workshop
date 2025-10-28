@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Secrets and configuration
+appsettings.Development.json
+appsettings.Local.json
+
+# NuGet packages
+*.nupkg
+
+# Temporary files
+*.tmp
+*.temp
+
+# Rider IDE
+.idea/
+
+# Others
+*.DS_Store
+Thumbs.db
