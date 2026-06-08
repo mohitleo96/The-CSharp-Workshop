@@ -4,76 +4,35 @@ namespace ConstructorExample
 {
     class Program
     {
-        public static void Main(String[] args)
-        {
-            //Without constructor
-            Employee Emp1 = new Employee();
-            Emp1.SetEmployee(12233, 24, "Mohit");
-            Emp1.GetEmployee();
-
-            Employee Emp2 = new Employee();
-            Emp2.SetEmployee(12133, 24, "Rohit");
-             Emp2.GetEmployee();
-
-            Employee Emp3 = new Employee();
-            Emp3.SetEmployee(12233, 34, "Lohit");
-            Emp3.GetEmployee();
-
-            //with constructor
-            Employee1 emp1 = new Employee1(12122, 23, "Mohit");
-            emp1.GetEmployee();
-
-            Employee1 emp2 = new Employee1(112122, 23, "Pohit");
-            emp2.GetEmployee();
-
-            Employee1 emp3 = new Employee1(112122, 23, "Lohit");
-            emp3.GetEmployee();
-
-        }
-
+      public static void Main(String[] args)
+      {
+        //class employee = new callingConstructor().
+        Employee employee = new Employee();
+        Console.WriteLine(employee.EmpName);
+        Console.WriteLine(employee.EmpID);
+        Console.WriteLine(employee.EmpMarried);
+      }
     }
-
-    //Without Constructor
-    class Employee
+    class Employee //Employee Class //Inside the Class Everything is Private.
     {
-        int EmpID;
-        int Age;
-        String Name;
+        //Fields (not properties) are declared here.
+        public string EmpName;
+        public int EmpID;
+        public bool EmpMarried;
 
-        public void SetEmployee(int empId, int age, String name)
+        //Defining Constructor
+        public Employee()
         {
-            EmpID = empId;
-            Age = age;
-            Name = name;
+        EmpName = "Mohit";
+        EmpID = 41;
+        EmpMarried = true;
         }
-
-        public void GetEmployee()
-        {
-            Console.WriteLine(EmpID);
-            Console.WriteLine(Age);
-            Console.WriteLine(Name);
-        }
-    }
-
-    //With Construtor
-    class Employee1
-    {
-        int EmpID;
-        int Age;
-        String Name;
-
-        public Employee1(int empId, int age, String name)
-        {
-            EmpID = empId;
-            Age = age;
-            Name = name;
-        }
-
-        public void GetEmployee()
-        {
-            Console.WriteLine(EmpID);
-            Console.WriteLine(Age);
-            Console.WriteLine(Name);
-        }
+        //Here we create Constructor Explicity and Set default Value as well for now.
+        //Explicity Constructor are either parameterless or parameterized Constructor.
     }
 }
+
+//Output
+//Mohit
+//41
+//True
