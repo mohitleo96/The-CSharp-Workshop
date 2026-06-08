@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tmorao\\Desktop\\C-Sharp-Workshop\\Chapter_01\\Exercise1_01\\Exercise1_01.csproj",
+      "projectUniqueName": "c:\\Users\\tmorao\\Desktop\\C-Sharp-Workshop\\Chapter_01\\Exercise1_01\\Exercise1_01.csproj",
       "projectName": "Exercise1_01",
-      "projectPath": "C:\\Users\\tmorao\\Desktop\\C-Sharp-Workshop\\Chapter_01\\Exercise1_01\\Exercise1_01.csproj",
+      "projectPath": "c:\\Users\\tmorao\\Desktop\\C-Sharp-Workshop\\Chapter_01\\Exercise1_01\\Exercise1_01.csproj",
       "packagesPath": "C:\\Users\\tmorao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tmorao\\Desktop\\C-Sharp-Workshop\\Chapter_01\\Exercise1_01\\obj\\",
+      "outputPath": "c:\\Users\\tmorao\\Desktop\\C-Sharp-Workshop\\Chapter_01\\Exercise1_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tmorao\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
